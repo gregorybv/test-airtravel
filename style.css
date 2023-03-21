@@ -92,6 +92,10 @@ html {
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
+.search form:hover{
+  transform: scale(1.1);
+}
+
 .search input {
   background: transparent;
   border: none;
