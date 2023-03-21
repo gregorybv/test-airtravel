@@ -54,7 +54,6 @@ html {
 }
 
 .more:hover{
-  font-weight: bold;
   color: #ff385c;
   cursor: pointer;
 }
