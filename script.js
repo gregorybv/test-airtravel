@@ -1,3 +1,4 @@
+// open/close menu
 const menuBtn = document.querySelector(".mobile")
 const navMenu = document.querySelector(".nav-menu")
 
@@ -11,6 +12,7 @@ const closeMenu = () => {
 }
 
 // fa-star
+
 const starHover = document.querySelectorAll(".fa-star")
 starHover.forEach((button) => {
   button.addEventListener("click", (event) => {
