@@ -126,6 +126,10 @@ html {
   font-size: 0.8rem;
 }
 
+.nav-link:hover {
+  color: #ff385c;
+}
+
 .mobile {
   cursor: pointer;
   display: none;
