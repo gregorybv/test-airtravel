@@ -255,8 +255,12 @@ img {
     padding-left: 1rem;
 }
 
-.footer li:hover {
+.footer li {
   cursor: pointer;
+}
+
+.footer li:hover {
+  color: #ff385c;
 }
 
 .center {
