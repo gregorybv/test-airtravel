@@ -46,6 +46,10 @@ html {
   justify-self: center;
 }
 
+.intro {
+  font-size: 24px;
+}
+
 .top-bar p {
   justify-self: end;
 }
