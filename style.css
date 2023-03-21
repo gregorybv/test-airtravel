@@ -255,6 +255,10 @@ img {
     padding-left: 1rem;
 }
 
+.footer li:hover {
+  cursor: pointer;
+}
+
 .center {
     display: flex;
 }
